@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailsActivity">
+
+    <ScrollView
+        android:layout_width="400dp"
+        android:layout_height="wrap_content">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/tvDetalles"
+    android:textSize="22sp"
+    android:text="En la Copa América 2015, perdió ante Brasil por 1-2, derrotó a Venezuela por la mínima diferencia y empató con Colombia sin goles, clasificando a cuartos de final, donde se enfrentaría a Bolivia ganando 3-1 con hat trick de Guerrero que lo hizo por segunda Copa consecutiva. \n \n En semifinales Perú se enfrentó al local Chile perdiendo 2-1. En el partido por el tercer puesto se enfrentó ante Paraguay ganando 2-0 con goles de André Carrillo a los 48' y de Paolo Guerrero a los 88', convirtiendo a este último nuevamente el goleador de una edición de la Copa América con 4 tantos junto con Vargas.7879 Estos resultados generaron confianza en la fanaticada nacional para los duelos durante las eliminatorias a Rusia 2018; sin embargo, el combinado bicolor sumó sólo 4 puntos (de 18 posibles) durante las seis primeras fechas, uno de los peores arranque es eliminatorias desde que se juegan todos contra todos en partidos de ida y vuelta. (Eliminatorias 1998) \n \n
+Para la Copa América Centenario, que por primera vez contaba con equipos participantes de la Conmebol y Concacaf, Ricardo Gareca armó un equipo ''b'', con solo 6 referentes internacionales.  \n \n
+En la fase de grupos derrotó por 1:0 a Haití, empató 2:2 ante Ecuador y cerró su participación en la primera fase con una victoria por 1:0 ante Brasil, con polémico gol de mano del delantero Ruidiaz. Estos resultados le permitieron al elenco peruano clasificar a cuartos de final, donde enfrentó a Colombia, empatando 0:0 en el tiempo reglamentario y siendo derrotado por 4:2 en la tanda de penaltis. \n \n
+Tras esto, el equipo de Gareca afrontó las fechas 7 y 8 de las Eliminatorias, visitando a Bolivia en La Paz donde fueron derrotados por 2-0; sin embargo, más adelante, la Federación Peruana de Fútbol, en conjunto con la Federación de Fútbol de Chile, demandó ante la FIFA la alineación indebida del futbolista paraguayo nacionalizado boliviano Nelson Cabrera, alegando que este aún no podía jugar para la selección de Bolivia. Ante esto, la FIFA decidió otorgarle la victoria a Perú y Chile sobre Bolivia con un marcador de 0-3. \n \n
+En la última fecha, Perú perdía ante con Colombia en Lima por 1-0 hasta que empató con un autogol del golero colombiano David Ospina tras un tiro libre indirecto de Paolo Guerrero81. Como consecuencia de este resultado, y de las derrotas de Chile y Paraguay, la selección peruana quedó ubicada en el 5º puesto de la tabla de posiciones por delante de Chile debido a una mayor diferencia de goles. Esto le otorgó el derecho de disputar la repesca frente a la selección de Nueva Zelanda, ganadora de la 3.ª ronda de la clasificatoria de OFC.82. En el partido de ida, el cuadro incaico empató sin goles en Wellington, mientras que en el partido de vuelta jugado en Lima, Perú ganó 2-0 con goles de Jefferson Farfan y Christian Ramos. Así, Perú volvió a clasificar a una Copa del Mundo después de 36 años. \n \n
+Perú fue ubicado en el grupo C junto a las selecciones de Dinamarca, Francia (equipo que posteriormente consiguió el título mundial) y Australia. Perdió por 1-0 ante los equipos europeos y ganó 2-0 ante el conjunto de Oceanía con goles de Andre Carrillo y Paolo Guerrero, quedando en el tercer lugar del grupo C con 3 puntos, quedando así eliminado del Mundial de Rusia 2018 \n \n
+Para la Copa América 2019 la selección peruana quedó ubicada en el grupo A con el anfitrión Brasil, Venezuela y Bolivia, siendo derrotado ante el primero por 5-0, empatando sin goles ante el segundo y venciendo por 3-1 al tercero, clasificando como el mejor tercero de los tres grupos. En cuartos de final, se enfrentó a Uruguay en un duelo que terminó igualado 0-0 que se tuvo que definir por penales, clasificando Perú por 5-4. En semifinales, se enfrentó a Chile, vigente bicampeón de América, imponiéndose por 3-0 y clasificando a la final continental después de 44 años84. Se enfrentó a Brasil en el Estadio Maracaná, donde cayó por 3-1, quedando así subcampeón de la Copa América 2019
+"
+    tools:ignore="HardcodedText" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
